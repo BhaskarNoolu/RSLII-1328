@@ -1,0 +1,22 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "55.0",
+  "packageAliases": {
+    "cvb.v25.0": "04t4V000001SpRcQAK",
+    "cve.v25.3.5": "04t2J000000cVL4",
+    "cvab.v25.3": "04t3o0000019pzn",
+    "cvint.v25.0": "04t2S000000NrRo",
+    "cvup2.v18.0": "04t0X0000005olj",
+    "cvx.v17.1": "04t0H0000019r2B",
+    "cvawa.v25.2": "04t1v000002SiER",
+    "cvup2cvab.v26.0": "04t670000015Z2C",
+    "cvup2cve.v26.0": "04t5d000001IB37"
+  }
+}
